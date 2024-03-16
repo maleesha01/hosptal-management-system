@@ -1,0 +1,26 @@
+c:\users\user\documents\visual studio 2010\Projects\Add New Patient\Add New Patient\bin\Debug\Add New Patient.exe
+c:\users\user\documents\visual studio 2010\Projects\Add New Patient\Add New Patient\bin\Debug\Add New Patient.pdb
+c:\users\user\documents\visual studio 2010\Projects\Add New Patient\Add New Patient\obj\x86\Debug\Add_New_Patient.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\Add New Patient\Add New Patient\obj\x86\Debug\Add_New_Patient.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\Add New Patient\Add New Patient\obj\x86\Debug\Add New Patient.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\Add New Patient\Add New Patient\obj\x86\Debug\Add New Patient.exe
+c:\users\user\documents\visual studio 2010\Projects\Add New Patient\Add New Patient\obj\x86\Debug\Add New Patient.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hospital Management System\Add New Patient\Add New Patient\obj\x86\Debug\Add New Patient.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hospital Management System\Add New Patient\Add New Patient\obj\x86\Debug\Add New Patient.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hospital Management System\Add New Patient\Add New Patient\bin\Debug\Add New Patient.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hospital Management System\Add New Patient\Add New Patient\bin\Debug\Add New Patient.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hospital Management System\Add New Patient\Add New Patient\obj\x86\Debug\Add New Patient.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hospital Management System\Add New Patient\Add New Patient\obj\x86\Debug\Add_New_Patient.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hospital Management System\Add New Patient\Add New Patient\obj\x86\Debug\Add_New_Patient.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hospital Management System\Add New Patient\Add New Patient\obj\x86\Debug\Add New Patient.csproj.GenerateResource.Cache
+E:\final year\hms project\Hospital Management System\Add New Patient\Add New Patient\bin\Debug\Add New Patient.exe.config
+E:\final year\hms project\Hospital Management System\Add New Patient\Add New Patient\bin\Debug\Add New Patient.exe
+E:\final year\hms project\Hospital Management System\Add New Patient\Add New Patient\bin\Debug\Add New Patient.pdb
+E:\final year\hms project\Hospital Management System\Add New Patient\Add New Patient\obj\x86\Debug\Add New Patient.csproj.AssemblyReference.cache
+E:\final year\hms project\Hospital Management System\Add New Patient\Add New Patient\obj\x86\Debug\Add New Patient.csproj.SuggestedBindingRedirects.cache
+E:\final year\hms project\Hospital Management System\Add New Patient\Add New Patient\obj\x86\Debug\Add_New_Patient.Form1.resources
+E:\final year\hms project\Hospital Management System\Add New Patient\Add New Patient\obj\x86\Debug\Add_New_Patient.Properties.Resources.resources
+E:\final year\hms project\Hospital Management System\Add New Patient\Add New Patient\obj\x86\Debug\Add New Patient.csproj.GenerateResource.cache
+E:\final year\hms project\Hospital Management System\Add New Patient\Add New Patient\obj\x86\Debug\Add New Patient.csproj.CoreCompileInputs.cache
+E:\final year\hms project\Hospital Management System\Add New Patient\Add New Patient\obj\x86\Debug\Add New Patient.exe
+E:\final year\hms project\Hospital Management System\Add New Patient\Add New Patient\obj\x86\Debug\Add New Patient.pdb

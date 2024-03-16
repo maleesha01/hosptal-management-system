@@ -1,0 +1,11 @@
+F:\pen 2\Visual Studio 2010\Projects\Hospital Management System\Diagnosis Information\Diagnosis Information\bin\Debug\Diagnosis Information.exe.config
+F:\pen 2\Visual Studio 2010\Projects\Hospital Management System\Diagnosis Information\Diagnosis Information\bin\Debug\Diagnosis Information.exe
+F:\pen 2\Visual Studio 2010\Projects\Hospital Management System\Diagnosis Information\Diagnosis Information\bin\Debug\Diagnosis Information.pdb
+F:\pen 2\Visual Studio 2010\Projects\Hospital Management System\Diagnosis Information\Diagnosis Information\obj\x86\Debug\Diagnosis Information.csproj.AssemblyReference.cache
+F:\pen 2\Visual Studio 2010\Projects\Hospital Management System\Diagnosis Information\Diagnosis Information\obj\x86\Debug\Diagnosis Information.csproj.SuggestedBindingRedirects.cache
+F:\pen 2\Visual Studio 2010\Projects\Hospital Management System\Diagnosis Information\Diagnosis Information\obj\x86\Debug\Diagnosis_Information.Form1.resources
+F:\pen 2\Visual Studio 2010\Projects\Hospital Management System\Diagnosis Information\Diagnosis Information\obj\x86\Debug\Diagnosis_Information.Properties.Resources.resources
+F:\pen 2\Visual Studio 2010\Projects\Hospital Management System\Diagnosis Information\Diagnosis Information\obj\x86\Debug\Diagnosis Information.csproj.GenerateResource.cache
+F:\pen 2\Visual Studio 2010\Projects\Hospital Management System\Diagnosis Information\Diagnosis Information\obj\x86\Debug\Diagnosis Information.csproj.CoreCompileInputs.cache
+F:\pen 2\Visual Studio 2010\Projects\Hospital Management System\Diagnosis Information\Diagnosis Information\obj\x86\Debug\Diagnosis Information.exe
+F:\pen 2\Visual Studio 2010\Projects\Hospital Management System\Diagnosis Information\Diagnosis Information\obj\x86\Debug\Diagnosis Information.pdb

@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2010\Projects\Doctor\Doctor\bin\Debug\Doctor.exe
+c:\users\user\documents\visual studio 2010\Projects\Doctor\Doctor\bin\Debug\Doctor.pdb
+c:\users\user\documents\visual studio 2010\Projects\Doctor\Doctor\obj\x86\Debug\Doctor.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\Doctor\Doctor\obj\x86\Debug\Doctor.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\Doctor\Doctor\obj\x86\Debug\Doctor.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\Doctor\Doctor\obj\x86\Debug\Doctor.exe
+c:\users\user\documents\visual studio 2010\Projects\Doctor\Doctor\obj\x86\Debug\Doctor.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hospital Management System\Doctor\Doctor\obj\x86\Debug\Doctor.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hospital Management System\Doctor\Doctor\obj\x86\Debug\Doctor.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hospital Management System\Doctor\Doctor\bin\Debug\Doctor.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hospital Management System\Doctor\Doctor\bin\Debug\Doctor.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hospital Management System\Doctor\Doctor\obj\x86\Debug\Doctor.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hospital Management System\Doctor\Doctor\obj\x86\Debug\Doctor.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Hospital Management System\Doctor\Doctor\obj\x86\Debug\Doctor.csproj.GenerateResource.Cache
